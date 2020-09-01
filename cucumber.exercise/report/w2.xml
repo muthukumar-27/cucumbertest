@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.093445">
+<testcase classname="this is to test the cucmber" name=": cucumber testing" time="0.092983">
+<system-out><![CDATA[Given testing...............................................................passed
+Given step one "a"..........................................................passed
+And step two................................................................passed
+Then step three "b".........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="this is to test the cucmber" name=": cucumber testing 2" time="0.000462">
+<system-out><![CDATA[Given testing...............................................................passed
+Given step one "c"..........................................................passed
+And step two................................................................passed
+Then step three "d".........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
