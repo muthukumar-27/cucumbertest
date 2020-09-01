@@ -13,7 +13,7 @@ public class testhooks {
 	@After
 	public void a()
 	{
-		System.out.println("a1");
+		System.out.println("a11");
 	}
 	@Before("@hello")
 	public void b1()
